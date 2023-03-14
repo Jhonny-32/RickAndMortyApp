@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">RickAndMortyApp</string>
+	<string name="home_title">Personajes</string>
+	<string name="previous_button">Anterior</string>
+	<string name="next_button">Siguiente</string>
+	<string name="first_location">Visto por primera vez</string>
+	<string name="last_location">Ultima ubicacion conocida</string>
+	<string name="specie">Especie</string>
+	<string name="status">Estado</string>
+	<string name="gender">Genero</string>
+</resources>
